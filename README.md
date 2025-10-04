@@ -2,6 +2,15 @@
 
 This project demonstrates how to use **Google BigQuery** and **BigQuery ML** to explore, prepare, model, and predict taxi fare amounts from the **New York City Yellow Taxi Trips** public dataset. The process involves data exploration, feature engineering, model training, evaluation, and prediction.
 
+# In_this lab, I learn_to_perform the following_tasks:
+## Use_BigQuery to_find public datasets
+## Query and_explore the public taxi cab dataset
+## Create_a training_and evaluation dataset_to be used_for batch prediction
+## Create_a forecasting (linear regression) model in_BigQuery ML
+## Evaluate the performance of your machine learning model
+## Question: How many trips did Yellow taxis_take each month_in_2015?
+# StandardSQL
+
 ## 🗂 Project Structure
 
 The SQL file includes the following key tasks:
