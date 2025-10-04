@@ -1,4 +1,4 @@
-#In_this lab, you learn_to_perform the following_tasks:
+#In_this lab, I learn_to_perform the following_tasks:
 #Use_BigQuery to_find public datasets
 #Query and_explore the public taxi cab dataset
 #Create_a training_and evaluation dataset_to be used_for batch prediction
